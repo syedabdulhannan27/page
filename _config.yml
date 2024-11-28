@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Syed Abdul Hannan"
-  avatar           : "images/profile.jpg"
+  avatar           : "../images/profile.jpg"
   bio              : "Graduate Research Assistant at Carnegie Mellon University | M.S. in MechE (2023-2024) | Deep Learning | Speech/NLP | Computer Vision | AI/ML"
   location         : "Pittsburgh, PA, USA"
   employer         :
