@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jong Hoon (Sam) Park"
+title                    : "Syed Abdul Hannan"
 title_separator          : "-"
-name                     : &name "Jong Hoon Park"
+name                     : &name "Syed Abdul Hannan"
 description              : &description "MS Student in MechE"
-url                      : https://sjhpark.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://syedabdulhannan27.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "sjhpark/sjhpark.github.io"
+repository               : "syedabdulhannan27/page/"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Jong Hoon Park"
   avatar           : "profile.jpg"
-  bio              : "Graduate Research Assistant at Carnegie Mellon University | M.S. in MechE (2022-2024) | AI/ML | Multimodal ML | Computer Vision | Aviation"
-  location         : "Pittsburgh, PA"
+  bio              : "Graduate Research Assistant at Carnegie Mellon University | M.S. in MechE (2023-2024) | Deep Learning | Speech/NLP | Computer Vision | AI/ML"
+  location         : "Pittsburgh, PA, USA"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : "jonghoon@andrew.cmu.edu"
-  email            : "jonghoon@alumni.cmu.edu"
+  email            : "syedabdulhannan00@gmail.com"
+  email            : "shannan@andrew.cmu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -97,13 +97,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "sjhpark"
+  github           : "syedabdulhannan27"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "sjhpark"
+  linkedin         : "syed-abdul-hannan"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
