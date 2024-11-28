@@ -113,30 +113,32 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  name             : "Syed Abdul Hannan"
+  avatar           : "C:\Users\syeda\Desktop\page\DALL·E 2024-11-27 21.23.09 - Create an anime-style version of a professional headshot portrait inspired by Indian aesthetics. The individual has slightly dark skin, short, neat, b (1).png"
+  bio              : """Hi, I'm Syed Abdul Hannan, but you can call me Hannan. I'm a master's student with a strong background in AI, sales, and entrepreneurship. I've managed companies in the past, which helped me build skills in leadership and strategy, and now I’m applying those skills to cutting-edge AI projects.
+
+I’ve worked on speaker verification, language models, and developing robust training frameworks using techniques like adversarial learning and mixup augmentation to improve performance. I’m passionate about creating AI solutions that have real-world impact, combining my technical expertise with my experience in working with people and teams."""
+  location         : "Pittsburgh, PA, USA"
+  email            : "syedabdulhannan00@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "mailto:syedabdulhannan00@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "https://syedabdulhannan27.github.io/page/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+      url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://instagram.com/"
 
 # Site Footer
 footer:
@@ -146,10 +148,10 @@ footer:
       # url:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url:
+      url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: "https://github.com/"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
@@ -158,7 +160,7 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url:
+      url: "https://instagram.com/"
 
 
 # Reading Files
