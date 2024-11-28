@@ -1,19 +1,10 @@
 ---
 permalink: /
-title: "About"
-excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
-layouts_gallery:
-  - url: /assets/images/mm-layout-splash.png
-    image_path: /assets/images/mm-layout-splash.png
-    alt: "splash layout example"
-  - url: /assets/images/mm-layout-single-meta.png
-    image_path: /assets/images/mm-layout-single-meta.png
-    alt: "single layout with comments and related posts"
-  - url: /assets/images/mm-layout-archive.png
-    image_path: /assets/images/mm-layout-archive.png
-    alt: "archive layout example"
-last_modified_at: 2022-05-27T11:59:26-04:00
-toc: true
+title: "Welcome!"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
 ---
 
 I am a recent graduate from Carnegie Mellon University with a Master's degree. I have extensive knowledge and experience in machine learning frameworks and their applications in various fields, including Audio, NLP, and Vision. I am passionate about creating AI solutions that have real-world impact, combining my technical expertise with my experience in working with people and teams.
