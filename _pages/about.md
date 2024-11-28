@@ -20,7 +20,7 @@ I am a graduate student from Carnegie Mellon University with a Specialized focus
   <tr>
     <td style="padding: 10px; border: none;">
       <div style="width: 500px; height: 430px; border-radius: 15px; overflow: hidden;">
-        <img src="../images/project.png" alt="Project Image" style="width: 100%; height: 100%; object-fit: contain;">
+        <img src="sample_project.png" alt="Project Image" style="width: 100%; height: 100%; object-fit: contain;">
       </div>
     </td>
   </tr>
