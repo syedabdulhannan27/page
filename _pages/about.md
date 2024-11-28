@@ -7,20 +7,20 @@ redirect_from:
   - /about.html
 ---
 
-I am a recent graduate from Carnegie Mellon University with a Master's degree. I have extensive knowledge and experience in machine learning frameworks and their applications in various fields, including robotics, autonomous driving, and aviation. I am also interested in and have experience with multimodal machine learning, self-supervised learning, on-device machine learning, and model compression for optimization and improved efficiency.
+I am a recent graduate from Carnegie Mellon University with a Master's degree. I have extensive knowledge and experience in machine learning frameworks and their applications in various fields, including Audio, NLP, and Vision. I am passionate about creating AI solutions that have real-world impact, combining my technical expertise with my experience in working with people and teams.
 <br><br>
 <h1>Interests</h1>
 <table style="border: none; border-collapse: collapse;">
   <tr>
     <td style="padding: 10px; border: none; vertical-align: top; font-size: 18px;">
-      <b>I primarily focus on using machine learning models as statistical predictors in various fields (e.g., aviation, autonomous driving, robotics, and human factors).</b> 
+      <b>I primarily focus on language modelling with different encoders such as Vision, Speech, and Audio.</b> 
       I suggest you explore my projects featured on <a href="https://sjhpark.github.io/projects/">Projects</a> page.
     </td>
   </tr>
   <tr>
     <td style="padding: 10px; border: none;">
       <div style="width: 500px; height: 430px; border-radius: 15px; overflow: hidden;">
-        <img src="../images/pilot_workload/experiment.png" alt="Project Image" style="width: 100%; height: 100%; object-fit: contain;">
+        <img src="start.png" alt="Project Image" style="width: 100%; height: 100%; object-fit: contain;">
       </div>
     </td>
   </tr>
