@@ -43,7 +43,7 @@ author_profile: true
 
             This system enhances reliability and transparency in speaker verification tasks by generating natural language explanations that highlight key similarities and differences between speakers. With applications in identity authentication, CoLMbo-SV sets a new benchmark for combining audio processing with natural language interpretation, bridging the gap between technical precision and user-friendly insights.
             <br>
-            <a href = "https://syedabdulhannan27.github.io/page/project_desc/DRONE">More</a>
+            <a href = "https://syedabdulhannan27.github.io/page/project_desc/COLMBOSV">More</a>
         </td>
     </tr>
 </table>
@@ -91,7 +91,7 @@ author_profile: true
 
             Trained in high-fidelity simulation environments like Gazebo and Matterport3D, the framework achieved an 88% navigation success rate in challenging scenarios, thanks to advanced data augmentation techniques that bridged the sim-to-real gap. This lightweight and efficient architecture ensures real-time performance, paving the way for future hardware implementations in complex, real-world environments.
             <br>
-            <a href = "https://sjhpark.github.io/project_desc/RAG">More</a>
+            <a href = "https://sjhpark.github.io/project_desc/DRONE">More</a>
         </td>
     </tr>
 </table>
