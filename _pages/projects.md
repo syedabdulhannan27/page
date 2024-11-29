@@ -19,7 +19,7 @@ author_profile: true
             <b>June 2024 - September 2024</b><br>
             This project introduces CoLMbo, an innovative Speaker Language Model designed to generate descriptive speaker profiles in natural language. By integrating a robust speaker encoder with prompt-based conditioning, CoLMbo can produce detailed captions that capture attributes such as age, gender, accent, and dialect. The model's ability to adapt to user-defined prompts makes it versatile for various applications, including forensics, customer service, and healthcare. CoLMbo leverages advanced language modeling techniques and speaker embeddings to provide context-rich and explainable profiles, setting a new benchmark in speaker recognition systems.
             <br>
-            <a href = "https://sjhpark.github.io/project_desc/RAG">More</a>
+            <a href = "https://syedabdulhannan27.github.io/page/project_desc/COLMBO">More</a>
         </td>
     </tr>
 </table>
