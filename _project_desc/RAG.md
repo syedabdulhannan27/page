@@ -1,37 +1,25 @@
 ---
-title: "Q&A Chatbot with LLMs via Retrieval Augmented Generation for Hallucination Mitigation"
-permalink: /project_desc/RAG
+title: "CoLMbo: Enhancing Speaker Profiling with AI"
+permalink: /project_desc/COLMBO
 collection: project_desc
 ---
 
 <h2>Motivation</h2><br>
-Q&A systems with large language models (LLMs) have shown remarkable performance in generating human-like responses. 
-However, LLMs often suffer from hallucination and generate plausible but incorrect information.
+CoLMbo addresses the limitations of traditional speaker recognition systems by providing rich, descriptive speaker profiles through an innovative Speaker Language Model (SLM).
 <h2>Introduction</h2><br>
 <div style="width: 800px; height: 300px; border-radius: 15px; overflow: hidden; text-align: center;">
     <img src="../images/RAG/Q&A_pipeline.png" alt="Project Image" style="width: 100%; height: 100%; object-fit: contain;">
 </div>
-To address this issue, we are developing a Q&A chatbot system that leverages retrieval-augmented generation (RAG).
-RAG allows users to vectorize and store documents (we are using PDF format) in a grounded database,
-and conducts similarity and semantic search to retrieve the most relevant information when a user asks a question.
-The retrieved information is then converted into a human-like response by the LLM.
+By integrating speaker embeddings with prompt-based conditioning, CoLMbo generates customized and context-aware descriptions, such as dialect, gender, and age, offering significant advancements in speaker profiling applications like forensics, customer service, and healthcare.
 <br><br>
-<h2>Research Challenges</h2><br>
-We are in the research phase of this project and are currently focusing on the following challenges:
-<ul>
-    <li>Choosing an LLM to use for the human-like text generation part of the system.</li>
-    <li>Choosing a model to use as an embedding model to vectorize the documents.</li>
-    <li>Generalizing the retrieval system to handle different types of documents.</li>
-    <li>Further mitigating hallucination in the LLM.</li>
-    <li>Finding evaluation metrics to measure the performance of the retrieval system.</li>
-    <li>Fine-tuning the LLM to generate human-like responses if performance is not satisfactory.</li>
-    <li>Optimizing the inference time and memory usage of the retrieval system.</li>
-    <li>Developing a user-friendly interface for the web application.</li>
-</ul>
+<h2>Methods</h2><br>
+The model uses a fixed PDAF encoder to derive speaker embeddings and a lightweight transformer-based audio mapper to create prefixes. These prefixes are input to a frozen causal language model to generate natural language descriptions. CoLMbo also includes a speaker classifier for clustering embeddings and a dual-loss training strategy, balancing text generation accuracy and speaker identification.
 <br><br>
-<h2>Web Application</h2><br>
-We are currently developing a web application that allows users to upload PDF documents and ask questions.
-The application is still in the basic stage, but we are planning to refine inference time, memory usage, and user interface.
+<h2>Results</h2><br>
+The model outperforms state-of-the-art systems, achieving near-perfect accuracy for predicting speaker attributes, including gender (100%) and accent (100%). Generated descriptions demonstrate high lexical and semantic similarity to reference data, with BERTScore (0.97) and METEOR (0.7) metrics validating its effectiveness.
+<br><br>
+<h2>Conclusion</h2><br>
+CoLMbo’s ability to produce detailed, adaptable, and interpretable speaker profiles bridges the gap between traditional recognition systems and advanced profiling needs, setting a new benchmark for speaker language models. Future work will explore broader applications and the inclusion of complex speaker traits, such as emotional states and vocal health indicators.
 <div style="width: 800px; height: 500px; border-radius: 15px; overflow: hidden; text-align: center;">
-    <img src="../images/RAG/RAG_App.png" alt="Project Image" style="width: 100%; height: 100%; object-fit: contain;">
+    <img src="../images/colombo2.png" alt="Project Image" style="width: 100%; height: 100%; object-fit: contain;">
 </div>
