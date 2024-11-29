@@ -32,7 +32,7 @@ author_profile: true
     <tr>
         <td style="padding: 0px; border: none;">
             <div style="width: 900px; height: 350px; border-radius: 15px; overflow: visible; text-align: center;">
-                <img src="../images/colombo.png" alt="Project Image" style="width: 100%; height: 100%; object-fit: contain;">
+                <img src="../images/sample_project.png" alt="Project Image" style="width: 100%; height: 100%; object-fit: contain;">
             </div>
         </td>
     </tr>
@@ -55,7 +55,7 @@ author_profile: true
     <tr>
         <td style="padding: 0px; border: none;">
             <div style="width: 900px; height: 350px; border-radius: 15px; overflow: visible; text-align: center;">
-                <img src="../images/colombo.png" alt="Project Image" style="width: 100%; height: 100%; object-fit: contain;">
+                <img src="../images/avis.png" alt="Project Image" style="width: 100%; height: 100%; object-fit: contain;">
             </div>
         </td>
     </tr>
@@ -80,7 +80,7 @@ author_profile: true
     <tr>
         <td style="padding: 0px; border: none;">
             <div style="width: 900px; height: 350px; border-radius: 15px; overflow: visible; text-align: center;">
-                <img src="../images/colombo.png" alt="Project Image" style="width: 100%; height: 100%; object-fit: contain;">
+                <img src="../images/drone.png" alt="Project Image" style="width: 100%; height: 100%; object-fit: contain;">
             </div>
         </td>
     </tr>
