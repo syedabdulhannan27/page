@@ -8,7 +8,7 @@ collection: project_desc
 CoLMbo addresses the limitations of traditional speaker recognition systems by providing rich, descriptive speaker profiles through an innovative Speaker Language Model (SLM).
 <h2>Introduction</h2><br>
 <div style="width: 800px; height: 300px; border-radius: 15px; overflow: hidden; text-align: center;">
-    <img src="../images/RAG/Q&A_pipeline.png" alt="Project Image" style="width: 100%; height: 100%; object-fit: contain;">
+    <img src="../images/RAG/colombo.png" alt="Project Image" style="width: 100%; height: 100%; object-fit: contain;">
 </div>
 By integrating speaker embeddings with prompt-based conditioning, CoLMbo generates customized and context-aware descriptions, such as dialect, gender, and age, offering significant advancements in speaker profiling applications like forensics, customer service, and healthcare.
 <br><br>
